@@ -1,0 +1,2 @@
+# MangaTextSelector
+Tempat translator manga 
